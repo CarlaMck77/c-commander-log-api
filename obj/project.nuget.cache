@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bBMm7N2dlaXzBDRWG4jwKvhgOjEslQ5/6QNRuNPjoOkhHiyjGtX8oh0L8jk/sg5UQgC1unheV8qfBOc4UPkHhQ==",
+  "dgSpecHash": "o37ySxIASl3Wr8c7irdikci8aRtvduPOAuEnm8eobz4qEkQeGzV47iVq7JThOpTJa7akuveOcYXumGOcIty+jg==",
   "success": true,
-  "projectFilePath": "/Users/carlamckenzie/commander-log-api/commander-log-api.csproj",
+  "projectFilePath": "/Users/carlamckenzie/Projects/projects-c/commander-log-api/commander-log-api.csproj",
   "expectedPackageFiles": [
     "/Users/carlamckenzie/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.0/microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "/Users/carlamckenzie/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/5.0.0/microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/carlamckenzie/commander-log-api/commander-log-api.csproj": {}
+    "/Users/carlamckenzie/Projects/projects-c/commander-log-api/commander-log-api.csproj": {}
   },
   "projects": {
-    "/Users/carlamckenzie/commander-log-api/commander-log-api.csproj": {
+    "/Users/carlamckenzie/Projects/projects-c/commander-log-api/commander-log-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/carlamckenzie/commander-log-api/commander-log-api.csproj",
+        "projectUniqueName": "/Users/carlamckenzie/Projects/projects-c/commander-log-api/commander-log-api.csproj",
         "projectName": "commander-log-api",
-        "projectPath": "/Users/carlamckenzie/commander-log-api/commander-log-api.csproj",
+        "projectPath": "/Users/carlamckenzie/Projects/projects-c/commander-log-api/commander-log-api.csproj",
         "packagesPath": "/Users/carlamckenzie/.nuget/packages/",
-        "outputPath": "/Users/carlamckenzie/commander-log-api/obj/",
+        "outputPath": "/Users/carlamckenzie/Projects/projects-c/commander-log-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/carlamckenzie/.nuget/NuGet/NuGet.Config"
